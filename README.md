@@ -62,11 +62,5 @@ You can also deploy it easily using GitHub Pages or Netlify.
 
 ---
 
-## 💡 Future Improvements
-
-- Add **pause/resume** functionality  
-- Show **next upcoming piece**  
-- Include **sound effects**  
-- Add **levels and increasing difficulty**  
-- Store **high scores** in local storage  
+## ✅ print("done enjoy the game")
 ---
